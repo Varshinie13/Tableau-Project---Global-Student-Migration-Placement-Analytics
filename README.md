@@ -20,6 +20,13 @@ You can interact with the live dashboard here:(https://public.tableau.com/app/pr
 
 Based on the Global Talent Migration & Career Outcomes Dashboard screenshots provided, here are the key insights formatted for a GitHub README or project documentation.
 
+Dashboards:
+<img width="960" height="540" alt="Screenshot 2026-04-15 182311" src="https://github.com/user-attachments/assets/3953756d-fdf0-4798-b50c-6a59e6f284f3" />
+
+
+<img width="960" height="540" alt="Screenshot 2026-04-15 182244" src="https://github.com/user-attachments/assets/3e58e952-50f6-474e-af31-64e106939efa" />
+
+
 📊 Final Insights: Global Talent Migration & Career Outcomes
 1. Trend Analysis: Graduation & Placement Volatility
 Peak Growth: Student volume saw a steady increase from 2020, peaking in 2022 with 496 graduates.
@@ -52,5 +59,7 @@ The "None" Factor: A significant segment of students falls under the "None" cate
 Bridge the Placement Gap: Since 50% of students remain unplaced, strengthening university-to-corporate pipelines with the top-hiring firms (Microsoft/Amazon) could improve outcomes.
 
 Targeted Support: With a 52% financial support rate, increasing scholarship availability for the "Law" field (the current filtered view) could further incentivize talent migration from the UK (the current origin filter).
+
+#Tableau #DataAnalytics #Project #DataVisualization #DataCollection #DataCleaning #DataModelling 
 
 
