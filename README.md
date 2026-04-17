@@ -21,10 +21,9 @@ You can interact with the live dashboard here:(https://public.tableau.com/app/pr
 Based on the Global Talent Migration & Career Outcomes Dashboard screenshots provided, here are the key insights formatted for a GitHub README or project documentation.
 
 Dashboards:
-<img width="960" height="540" alt="Screenshot 2026-04-15 182311" src="https://github.com/user-attachments/assets/3953756d-fdf0-4798-b50c-6a59e6f284f3" />
-
-
 <img width="960" height="540" alt="Screenshot 2026-04-15 182244" src="https://github.com/user-attachments/assets/3e58e952-50f6-474e-af31-64e106939efa" />
+
+<img width="960" height="540" alt="Screenshot 2026-04-15 182311" src="https://github.com/user-attachments/assets/3953756d-fdf0-4798-b50c-6a59e6f284f3" />
 
 
 📊 Final Insights: Global Talent Migration & Career Outcomes
